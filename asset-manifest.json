@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fb2bd006.css",
+    "main.js": "/Portfolio/static/js/main.83605544.js",
+    "static/media/Sravani.jpeg": "/Portfolio/static/media/Sravani.0ec046b31c67d18d0d1c.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.fb2bd006.css.map": "/Portfolio/static/css/main.fb2bd006.css.map",
+    "main.83605544.js.map": "/Portfolio/static/js/main.83605544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2bd006.css",
+    "static/js/main.83605544.js"
+  ]
+}
